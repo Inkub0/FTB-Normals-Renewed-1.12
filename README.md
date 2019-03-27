@@ -1,6 +1,8 @@
-# Vanilla-Normals-Renewed-1.12
-A shaders compatible minecraft texturepack, based on vanilla but with normals and proper glossiness informations.
-This version (renewed) is made for PBR, but still a WORK IN PROGRESS, so you may encounter some textures with strange behavior.
+# FTB-Normals-Renewed-1.12
+This work is a fork of Vanilla Normals Renewed by Poudingue.
+A shaders compatible minecraft texturepack, based on vanilla and textures added in the FTB modpack but with normals and proper glossiness informations.
+This version (renewed) is made for PBR, but still a WORK IN PROGRESS, so you may encounter some textures with strange behavior. I will add all the textures used in FTB mods, starting with the most common used like Ultimate and Continuum pack.
+I'm going to create milestones per single mod, ad adding them one by one.
 
 /!\ THIS VERSION IS NOT COMPATIBLE FOR MINECRAFT ≥ 1.13
 
