@@ -8,10 +8,8 @@ I'm going to create milestones per single mod, ad adding them one by one.
 
 ## Description
 
-I didn't want any of those fancy high-resolution texturepacks in order to enjoy normal mapping and specular highlights.
-So i decided to make my own, but based on vanilla textures.
-
-I release this texturepack to the public, because everyone should be able to enjoy it.
+I totally agree with Poudingue when he says: "I didn't want any of those fancy high-resolution texturepacks in order to enjoy normal mapping and specular highlights." And I think this texturepack has a potential to be the choice for many Minecrafters like me. I also want to give the texturepack all the normal maps for the mods used in the FTB collections.
+I strongly believe in opensource software so here it is my fork on github. Feel free to contribute!
 
 ## Screenshots
 Textures have bump mapping informations, allowing parallax occlusion mapping and normal mapping.
